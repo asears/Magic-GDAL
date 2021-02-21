@@ -2,7 +2,7 @@
 
 GDAL can be installed and run on Windows, OSX and Linux and there are different approaches based on your operating system. There is a list [here](https://gdal.org/download.html) that give a good list of options. 
 
-##Windows Installation
+## Windows Installation
 
 In the GDAL docs it recommends to use Conda to install GDAL however one of the alternatives that is not listed is [GIS Internals](https://www.gisinternals.com/) which provide a number of options including MSI installers for Windows for both the stable and development release.
 
